@@ -1,8 +1,5 @@
 ### Hi there 👋
 
-
-
-
 안녕하세요 초보개발자입니다.
 
 제가 공부한 것들을 소소하게 블로그에 올리고 있으니 여기를 방문해주세요 😄😄😄
@@ -10,6 +7,22 @@
 https://boying-blog.tistory.com
 
 
+### 📫 🌱 I’m currently learning
+- DevOps
+- MSA
+- Python
+- Shell Script
+- Linux / Ubuntu
+- Docker
+- Kubernetes
+- Jenkins
+- Ansible
+
+
+
+### 📫 How to reach me
+- blog : https://boying-blog.tistory.com
+- email : taeil710@naver.com  /  taeil710@gmail.com
 
 <!--
 **YunTaeIl/YunTaeil** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
