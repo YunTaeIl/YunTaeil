@@ -7,7 +7,7 @@
 https://boying-blog.tistory.com
 
 
-### 📫 🌱 I’m currently learning
+### 🌱 I’m currently learning
 - DevOps
 - MSA
 - Python
