@@ -9,14 +9,14 @@ https://boying-blog.tistory.com
 
 ### 🌱 I’m currently learning
 - DevOps
+- MLOps
 - MSA
 - Python
 - Shell Script
 - Linux / Ubuntu
 - Docker
 - Kubernetes
-- Jenkins
-- Ansible
+- kubeflow
 
 
 
