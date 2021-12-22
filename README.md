@@ -17,6 +17,7 @@ https://boying-blog.tistory.com
 - Docker
 - Kubernetes
 - kubeflow
+- Operating Database
 
 
 
